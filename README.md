@@ -7,7 +7,6 @@ Try running some of the following tasks:
 ```shell
 npx hardhat help
 npx hardhat test
-REPORT_GAS=true npx hardhat test
 npx hardhat node
 ```
 ## Deploy your contract in network sepolia testnet
@@ -26,6 +25,7 @@ npx hardhat run scripts/update.js
 ```
 
 ```
-Notice: you can execute your additional functions for example bot to interact with  your contract with cmd:
+Notice: you can execute your additional functions
+ for example bot to interact with  your contract with cmd:
 node app.js
 ```
