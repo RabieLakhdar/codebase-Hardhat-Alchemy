@@ -11,6 +11,7 @@ API_URL = "https://eth-sepolia.g.alchemy.com/v2/<Alchemy API KEY sepolia>"
 API_KEY = "from alchemy sepolia network"
 PRIVATE_KEY = "from your wallet on meta or hardhat accounts"
 CONTRACT_ADDRESS = "after deploy your contract"
+ETHERSCAN_API_KEY = "From your etherscan account"
 ```
 
 ```shell
@@ -38,3 +39,5 @@ Notice: you can execute your additional functions
  for example bot to interact with  your contract with cmd:
 node app.js
 ```
+## example for contract deployed
+https://sepolia.etherscan.io/address/0x4C99868475969f0d069334EC487676C4ff86F615
