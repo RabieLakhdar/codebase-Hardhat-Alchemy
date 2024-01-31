@@ -31,8 +31,9 @@ node app.js
 ```
 
 ## required add .env file
-
+```shell
 API_URL = "https://eth-sepolia.g.alchemy.com/v2/<Alchemy API KEY sepolia>"
 API_KEY = "from alchemy sepolia network"
 PRIVATE_KEY = "from your wallet on meta or hardhat accounts"
 CONTRACT_ADDRESS = "after deploy your contract"
+```
