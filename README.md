@@ -29,3 +29,10 @@ Notice: you can execute your additional functions
  for example bot to interact with  your contract with cmd:
 node app.js
 ```
+
+## required add .env file
+
+API_URL = "https://eth-sepolia.g.alchemy.com/v2/<Alchemy API KEY sepolia>"
+API_KEY = "from alchemy sepolia network"
+PRIVATE_KEY = "from your wallet on meta or hardhat accounts"
+CONTRACT_ADDRESS = "after deploy your contract"
